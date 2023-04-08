@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e cloud1-5gxdq6ef0b266e91 --n quickstartFunctions --r --project "/Users/zhaolong/Documents/GitHub/pipes2" --report_first --report
